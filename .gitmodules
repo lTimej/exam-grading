@@ -1,3 +1,9 @@
 [submodule "exams"]
 	path = exams
 	url = git@github.com:lTimej/exams.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:lTimej/learning-cxx.git
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:lTimej/rustlings.git
